@@ -1,0 +1,20 @@
+Lewis,Hamilton,44
+Valtteri,Bottas,77
+Daniel,Ricciardo,3
+Lando,Norris,5
+Charles,Leclerc,16
+Carlos,Sainz Jr,55
+George,Russell,63
+Max,Verstappen,33
+Sergio,Perez,11
+Nicholas,Latifi,6
+Fernando,Alonso,14
+Esteban,Ocon,6
+Mick,Schumacher,8
+Nikita,Mazepin,20
+Sebastian,Vettel,5
+Lance,Stroll,18
+Kimi,Raikkonen,7
+Antonio,Giovinazzi,99
+Pierre,Gasly,10
+Yuki,Tsunoda,22

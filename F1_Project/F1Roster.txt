@@ -1,0 +1,10 @@
+Mercedes AMG Petronas F1 Team,Lewis,Hamilton,44,Valtteri,Bottas,77,Toto Wolff,1400
+McLaren,Daniel,Ricciardo,3,Lando,Norris,5,Andreas Seidl,750
+Scuderia Ferrari,Charles,Leclerc,16,Carlos,Sainz Jr,55,Mattia Binotto,1000
+Williams Racing,George,Russell,63,Nicholas,Latifi,6,Simon Roberts,712
+Red Bull Racing,Max,Verstappen,33,Sergio,Perez,11,Christian Horner,650
+Alpine F1 Team,Fernando,Alonso,14,Esteban,Ocon,6,Laurent Rossi,1200
+Haas F1 Team,Mick,Schumacher,8,Nikita,Mazepin,20,Gunther Steiner,212
+Aston Martin Cognizant Formula One Team,Sebastian,Vettel,5,Lance,Stroll,18,Otmar Szafnauer,500
+Alfa Romeo Racing,Kimi,Raikkonen,7,Antonio,Giovinazzi,99,Frederic Vasseur,430
+Scuderia AlphaTauri,Pierre,Gasly,10,Yuki,Tsunoda,22,Franz Tost,500

@@ -1,0 +1,10 @@
+Toto Wolff,1400
+Andreas Seidl,750
+Mattia Binotto,1000
+Simon Roberts,712
+Christian Horner,650
+Laurent Rossi,1200
+Gunther Steiner,212
+Otmar Szafnauer,500
+Frederic Vasseur,430
+Franz Tost,500
